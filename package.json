@@ -25,7 +25,7 @@
     "auth0-js": "^9.16.0",
     "contentful": "^8.3.5",
     "contentful-management": "^6.3.2",
-    "gatsby": "^3.3.1",
+    "gatsby": "^5.13.6",
     "gatsby-background-image": "^1.5.3",
     "gatsby-image": "^2.11.0",
     "gatsby-plugin-antd": "^2.2.0",
